@@ -1,6 +1,8 @@
 OpenERP Base External Mapping
 =============================
 
+**This project has been moved to https://launchpad.net/zoook-esale**
+
 OpenERP integration to External Mapping (webservices, etc).
 Create OpenObject Model to External Model.
 
